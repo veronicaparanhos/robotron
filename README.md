@@ -12,4 +12,4 @@ Projeto desenvolvido durante o curso de "JavaScript: manipulando o DOM"
 > - CSS
 > - Java Script
 
-- Link para a página: https://veronicaparanhos.github.io/robotron/
+[Link para a página](https://veronicaparanhos.github.io/robotron/)
